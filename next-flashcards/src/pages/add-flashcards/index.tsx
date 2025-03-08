@@ -1,4 +1,3 @@
-import { NextPage } from "next";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
 import { trpc } from "../../utils/trpc";
